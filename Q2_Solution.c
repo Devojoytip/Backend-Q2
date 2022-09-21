@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Appraoch - Dynamic Programming Memoization
+// Approach - Dynamic Programming (Memoization)
 int func(int n, int *dp)
 {
     // Base Case
